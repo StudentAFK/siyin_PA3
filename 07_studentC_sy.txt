@@ -1,0 +1,17 @@
+System testing
+
+
+What is system Testing?
+ANS: testing for design and behaviour of the system meeting customer's expectation 
+System Testing is conducted by  	
+ANS: independent software testers
+It is type of (blackbox testing)
+
+
+Acceptance testing
+
+
+What is acceptance Testing?
+ANS: testing for acceeptability for busniess reqiurements
+Acceptance Testing is conducted by  
+ANS: 	testers below qualities
